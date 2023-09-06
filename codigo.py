@@ -1,3 +1,6 @@
+#Programa criado por Arthur Gonçalves da Silva com o auxílio do ChatGPT em algumas funções
+
+
 def center(win):  #Essa função eu peguei da internet para centralizar a interface
     win.update_idletasks()  
     width = win.winfo_width()
